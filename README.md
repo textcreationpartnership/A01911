@@ -35,20 +35,30 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Sir Gyles Goosecappe Knight A comedie presented by the Chil: of the Chappell.Chapman, George, 1559?-
+〈◊〉, Awidowe, and a Noble Ladie.Hyppolita, Ladie-virgines, and Companions to Eugenia▪Penelope, Ladie
 #####Body#####
 
-1. SCAeNA PRIMA
+1. ACTVS PRIMVS,
 
-1. SCAeNA TERTIA.
+    _ SCAeNA PRIMA
 
-1. SCAeNA QVARTA.
+    _ SCAeNA TERTIA.
 
-1. SAeNA PRIMA
+    _ SCAeNA QVARTA.
 
-1. SCAeNA PRIMA▪
+1. ACTVS SECVNDI
 
-1. SCAeNA PRIMA.
+    _ SAeNA PRIMA
+
+1. ACTVS TERTII
+
+    _ SCAeNA PRIMA▪
+
+1. ACTVS QVARTVS.
+
+1. ACTVS QVINTI
+
+    _ SCAeNA PRIMA.
 
 **Types of content**
 
